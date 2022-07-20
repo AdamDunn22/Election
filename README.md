@@ -8,11 +8,20 @@ To have the program grab the data from the Election Results excel file and extra
 ## Analysis
 ### Election-Audit Results
 * The congressional election had 369,711 votes in total
+![Total_votes](https://user-images.githubusercontent.com/108701073/180079342-42ef26f8-e065-47d4-98f9-16972ddccb4c.png)
+
 * Jefferson county – 38,855 votes 10.5%, Denver – 306,055 votes 82.8%, Arapahoe 24,801 votes 6.7%
+![County_breakdown](https://user-images.githubusercontent.com/108701073/180078749-a1d0d83f-4d2d-43b6-b5fa-f168e3fce901.png)
+
 * Denver had the largest turnout
+https://github.com/AdamDunn22/Election_Analysis_Adam/blob/bf396e0ff6d878165aac190ca9eab4c83d1e65de/Pictures/Candidate_results.png
+
 * Charles Stockham 85,213 votes 23%, Diana DeGette 272,892 votes 73.8%, Raymon Doane 11,606 3.1%
+  [Candidate_results](https://user-images.githubusercontent.com/108701073/180078560-061dad94-a4b7-4939-88df-051b2b8b87c5.png)
+
 * The Winner was Diana Degette with 272,892 votes and had a winning percentage of 73.8%
- 
+ ![Winning_candidate](https://user-images.githubusercontent.com/108701073/180078657-a56f4011-0296-4e24-9bb9-0183ec10d455.png)
+
 
 ## Summary
 ### Election-Audit Summary
